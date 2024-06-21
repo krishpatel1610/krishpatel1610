@@ -114,11 +114,11 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityakhachar&bg_color=000000&color=ffaa00&line=d9eb37&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishpatel1610&bg_color=000000&color=ffaa00&line=d9eb37&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishpatel1610&show_icons=true&locale=en&layout=compact" alt="adityakhachar" /></p>
-<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishpatel1610" alt="adityakhachar" /></p></center>
+<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishpatel1610" alt="krishPatel" /></p></center>
 <div align="center">
   
 ### ⭐️ From Aditya with :sparkling_heart:
