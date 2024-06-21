@@ -17,9 +17,13 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 - 🌱 I am currently learning the MERN stack, which includes MongoDB, 
   Express, React, and Node.js.
 - 👯 I’m looking to collaborate on Open Source Software Development.
+- - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+- 📫 How to reach me: **adityakhachar15@gmail.com**
+- 👨‍💼 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
+- 🤓 Fun fact: Programmers don’t die, they just go offline😝
 
   <br><br><br>
-# 💻 Tech Stack
+# 🌐 Tech Stack
 
 <table align="center">
   <tr align="center">
