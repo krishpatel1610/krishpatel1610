@@ -118,7 +118,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="[https://github.com/krishpatel1610](https://github.com/krishpatel1610/AutoSphere)">
+        <a href="https://github.com/krishpatel1610">
           <img align="center" src="https://streak-stats.demolab.com?user=krishpatel1610&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
@@ -137,7 +137,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/krishpatel1610">
-          <img align="center" src="https://github.com/krishpatel1610/AutoSphere &limit=3&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=krishpatel1610&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
