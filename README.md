@@ -24,7 +24,7 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 - 👨‍💼 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 🤓 Fun fact: Programmers don’t die, they just go offline😝
 
-<br>
+
 # 🌐 Tech Stack
 
 <table align="center">
