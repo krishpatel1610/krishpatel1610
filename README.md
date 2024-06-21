@@ -12,6 +12,8 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 - 🌱 I am currently learning the MERN stack, which includes MongoDB, 
   Express, React, and Node.js.
 - 👯 I’m looking to collaborate on Open Source Software Development.
+
+  
 # 💻 Tech Stack
 
 <table align="center">
