@@ -12,7 +12,7 @@
 
 <img src="https://nativeva.com/wp-content/uploads/2023/06/20230629205259__fpdl.in__programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767_normal-removebg-preview.png" align="right" height="500" />
 
-# 💫 About Me:
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me:
 <br>
 I am a final-year undergraduate student at Pandit Deendayal Energy University, pursuing a Bachelor's in Information and Communication Technologies (ICT). I am a passionate full-stack developer and app development enthusiast with a strong interest in Flutter, React Native, Node.js, relational databases (RDBMS), MongoDB, and REST APIs. As a student, I am eager to explore and master these technologies while actively contributing to their development and implementation.
 <br><br>
