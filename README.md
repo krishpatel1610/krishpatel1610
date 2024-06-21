@@ -13,7 +13,7 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
   Express, React, and Node.js.
 - 👯 I’m looking to collaborate on Open Source Software Development.
 
-  
+  <br><br>
 # 💻 Tech Stack
 
 <table align="center">
