@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">, I'm Krish Patel :man_technologist:</h1>
 
-<h3 align="center">A Passionate Software Engineer from India🇮🇳</h3>
+<h3 align="center">A Passionate Software Engineer from India 🇮🇳</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishpatel1610" alt="krish" /> </p>
 
 
