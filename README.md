@@ -52,9 +52,17 @@
     <td><img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=restapi" alt="REST API"></td>
     <td><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"></td>
   </tr>
+  <tr align="center">
+    <td><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" alt="Flutter"></td>
+    <td><img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white" alt="Android"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 ## 📊 GitHub Stats
