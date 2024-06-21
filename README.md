@@ -185,7 +185,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 <img src="./github.png" width=50 height=50 alt="krishpatel1610" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="https://www.linkedin.com/in/krish-patel-80b767217/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <br>
@@ -195,7 +195,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://www.buymeacoffee.com/krishpatel1610" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 
