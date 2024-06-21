@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/011/153/368/original/3d-website-developer-working-on-laptop-illustration-png.png" max-height="500px" />
+  <img src="https://static.vecteezy.com/system/resources/previews/011/153/368/original/3d-website-developer-working-on-laptop-illustration-png.png" style="max-height: 500px; max-width: 100%;" />
 </p>
+
 # Hello, I'm Krish Patel 👋
 
 <img src="https://nativeva.com/wp-content/uploads/2023/06/20230629205259__fpdl.in__programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767_normal-removebg-preview.png" align="right" height="450" />
