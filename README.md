@@ -3,7 +3,7 @@
 </p>
 
 # Hello, I'm Krish Patel 👋
-<img src="https://nativeva.com/wp-content/uploads/2023/06/20230629205259__fpdl.in__programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767_normal-removebg-preview.png" align="right" height="300" style="margin-left: 10px; margin-top: 10px;" />
+<img src="https://nativeva.com/wp-content/uploads/2023/06/20230629205259__fpdl.in__programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767_normal-removebg-preview.png" align="right" height="300" style="margin-left: 10px; margin-top: 50px;" />
 
 # 💫 About Me:
 <br>
