@@ -102,18 +102,6 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 
 </table>
 
-# 🌐 Socials:
-<table align="center">
-  <tr align="center">
-    <td><a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a></td>
-    <td><a href="https://www.instagram.com/kriishh.patel/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a></td>
-    <td><a href="https://www.linkedin.com/in/krish-patel-80b767217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
-    <td><a href="https://x.com/KrishPa71757367"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a></td>
-  </tr>
-</table>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishpatel1610&bg_color=000000&color=ffaa00&line=d9eb37&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
@@ -146,7 +134,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
 <br/>
 
