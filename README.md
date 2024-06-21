@@ -68,9 +68,9 @@
   </tr>
   <tr align="center">
     <td><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router"></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="Material-UI"></td>
+    <td><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router"></td>
+    <td><img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt="Svelte"></td>
     <td></td>
   </tr>
 </table>
