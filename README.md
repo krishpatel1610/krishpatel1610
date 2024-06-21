@@ -67,7 +67,7 @@
     <td><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=flat&logo=json-web-tokens&logoColor=pink" alt="JSON Web Tokens"></td>
   </tr>
   <tr align="center">
-    <td></td>
+    <td><img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" alt="Vue.js"></td>
     <td><img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="Material-UI"></td>
     <td><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router"></td>
     <td><img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt="Svelte"></td>
