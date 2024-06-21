@@ -16,8 +16,6 @@
     <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"></td>
     <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"></td>
     <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java"></td>
-
-
   </tr>
   <tr align="center">
     <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></td>
@@ -57,13 +55,26 @@
   <tr align="center">
     <td><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" alt="Flutter"></td>
     <td><img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white" alt="Android"></td>
+    <td><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"></td>
+    <td><img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"></td>
+    <td><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring"></td>
+    <td><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"></td>
+    <td><img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite"></td>
+    <td><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="Amazon AWS"></td>
+    <td><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=flat&logo=json-web-tokens&logoColor=pink" alt="JSON Web Tokens"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router"></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
 </table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 📊 GitHub Stats
