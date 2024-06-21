@@ -2,7 +2,9 @@
 
 ![Header](https://raw.githubusercontent.com/yourusername/yourusername/main/header.png)
 
-## 🚀 About Me
+# 💫 About Me:
+I am a final-year Undergraduate Student at Pandit Deendayal Energy University, pursuing a Bachelors in Information and Communication Technologies (ICT), who is passionate Full-stack Development :bar_chart:, Flutter & Mernstack Developer:snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+
 - 🔭 I’m currently working on AutoSphere.
 - 🌱 I am currently learning the MERN stack, which includes MongoDB, 
   Express, React, and Node.js.
