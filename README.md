@@ -12,15 +12,13 @@
 
 # 💫 About Me:
 <br>
-I am a final-year Undergraduate Student at Pandit Deendayal Energy University, pursuing a Bachelors in Information and Communication Technologies (ICT), who is passionate Full-stack Development :bar_chart:, Flutter & Mernstack Developer:snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a final-year Undergraduate Student at Pandit Deendayal Energy University, pursuing a Bachelors in Information and Communication Technologies (ICT), who is passionate ull-stack developer and app development enthusiast with a strong passion for Flutter, React Native, Node.js, relational databases (RDBMS), MongoDB, and REST APIs. As a student, I am eager to explore and master these technologies while actively contributing to their development and implementation.
 <br>
 
 - 🔭 I’m currently working on AutoSphere.
-- 🌱 I am currently learning the MERN stack, which includes MongoDB, 
-  Express, React, and Node.js.
+- 🌱 I’m currently learning many things, I believe that everyday is a 
+  learning opportunity.
 - 👯 I’m looking to collaborate on Open Source Software Development.
-- - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-- 📫 How to reach me: **krishpatel1623@gmail.com**
 - 👨‍💼 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 🤓 Fun fact: Programmers don’t die, they just go offline😝
 
@@ -126,29 +124,26 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:krishpatel1623@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="krishpatel1610@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kiran__a__n" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<a href="https://x.com/KrishPa71757367" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="KrishPa71757367" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/kriishh.patel" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="kriishh.patel" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<a href="https://www.githubcom/krishpatel1610" target="_blank">
+<img src="./github.png" width=50 height=50 alt="krishpatel1610" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
 </div>
 <br/>
 
