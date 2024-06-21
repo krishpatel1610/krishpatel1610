@@ -104,7 +104,7 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 # 🌐 Socials:
 <table align="center">
   <tr align="center">
-    <td><a href="https://discord.gg/https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a></td>
+    <td><a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a></td>
     <td><a href="https://www.instagram.com/kriishh.patel/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a></td>
     <td><a href="https://www.linkedin.com/in/krish-patel-80b767217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
     <td><a href="https://x.com/KrishPa71757367"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a></td>
