@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/011/153/368/original/3d-website-developer-working-on-laptop-illustration-png.png" />
+  <img src="https://static.vecteezy.com/system/resources/previews/011/153/368/original/3d-website-developer-working-on-laptop-illustration-png.png" max-height="500px" />
 </p>
 # Hello, I'm Krish Patel 👋
 
