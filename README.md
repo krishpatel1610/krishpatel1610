@@ -8,7 +8,7 @@
 
 
 
-<img src="https://nativeva.com/wp-content/uploads/2023/06/20230629205259__fpdl.in__programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767_normal-removebg-preview.png" align="right" height="450" />
+<img src="https://nativeva.com/wp-content/uploads/2023/06/20230629205259__fpdl.in__programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767_normal-removebg-preview.png" align="right" height="550" />
 
 # 💫 About Me:
 <br>
