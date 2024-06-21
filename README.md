@@ -12,7 +12,8 @@
 
 # 💫 About Me:
 <br>
-I am a final-year Undergraduate Student at Pandit Deendayal Energy University, pursuing a Bachelors in Information and Communication Technologies (ICT), who is passionate ull-stack developer and app development enthusiast with a strong passion for Flutter, React Native, Node.js, relational databases (RDBMS), MongoDB, and REST APIs. As a student, I am eager to explore and master these technologies while actively contributing to their development and implementation.
+I am a final-year undergraduate student at Pandit Deendayal Energy University, pursuing a Bachelor's in Information and Communication Technologies (ICT). I am a passionate full-stack developer and app development enthusiast with a strong interest in Flutter, React Native, Node.js, relational databases (RDBMS), MongoDB, and REST APIs. As a student, I am eager to explore and master these technologies while actively contributing to their development and implementation.
+
 <br>
 
 - 🔭 I’m currently working on AutoSphere.
