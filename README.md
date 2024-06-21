@@ -3,7 +3,7 @@
 ![Header]()
 
 
-<img src="[https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png](https://nativeva.com/wp-content/uploads/2023/06/20230629205259__fpdl.in__programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767_normal-removebg-preview.png)" align="right" height="450" />
+<img src="https://nativeva.com/wp-content/uploads/2023/06/20230629205259__fpdl.in__programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767_normal-removebg-preview.png" align="right" height="450" />
 
 # 💫 About Me:
 I am a final-year Undergraduate Student at Pandit Deendayal Energy University, pursuing a Bachelors in Information and Communication Technologies (ICT), who is passionate Full-stack Development :bar_chart:, Flutter & Mernstack Developer:snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
