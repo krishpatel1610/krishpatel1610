@@ -15,7 +15,8 @@
     <td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"></td>
     <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"></td>
     <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"></td>
-    <td><img src="[https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white](https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png)" alt="Java"></td>
+    <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java"></td>
+
 
   </tr>
   <tr align="center">
