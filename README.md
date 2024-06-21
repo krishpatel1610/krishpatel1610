@@ -5,7 +5,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">, I'm Krish Patel :man_technologist:</h1>
 
 <h3 align="center">A Passionate Software Engineer from India🇮🇳</h3>
-<img src="https://nativeva.com/wp-content/uploads/2023/06/20230629205259__fpdl.in__programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767_normal-removebg-preview.png" align="right" height="300" margin-left= "10px" margin-top= "50px" />
+
+<img src="https://nativeva.com/wp-content/uploads/2023/06/20230629205259__fpdl.in__programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767_normal-removebg-preview.png" align="right" height="350" />
 
 # 💫 About Me:
 <br>
