@@ -49,12 +49,13 @@
     <td><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux"></td>
     <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"></td>
     <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" alt="Flutter"></td>
+    <td><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"></td>
   </tr>
 </table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
