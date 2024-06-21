@@ -127,8 +127,4 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourusername)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishpatel1610&layout=compact&theme=radical)
