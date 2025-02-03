@@ -185,7 +185,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 <img src="./github.png" width=50 height=50 alt="krishpatel1610" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/krish-patel-80b767217/" target="_blank">
+<a href="https://www.linkedin.com/in/krish-patel-16/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <br>
