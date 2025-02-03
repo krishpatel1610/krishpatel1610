@@ -26,7 +26,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 
 
 # 🌐 Tech Stack
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="itzkrish7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/itzkrish7?trk=profile-badge">Krish Patel</a></div>
+<a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/itzkrish7?trk=profile-badge">Krish Patel</a>
               
 
 <table align="center">
