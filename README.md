@@ -185,9 +185,15 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 <img src="./github.png" width=50 height=50 alt="krishpatel1610" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/krish-patel-80b767217/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
+# LinkedIn Badge:
+
+<p align="center">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="itzkrish7" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/itzkrish7?trk=profile-badge">Krish Patel</a>
+  </div>
+</p>
+
+---
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
